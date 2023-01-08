@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "643951108024",
+    "project_id": "chat-room-app-5d6a6",
+    "storage_bucket": "chat-room-app-5d6a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643951108024:android:b7d4995f94e5dc5055b94d",
+        "android_client_info": {
+          "package_name": "com.example.chat_room_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643951108024-i278upag3dltihe7ctbmh91rmm74vdg3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_room_app",
+            "certificate_hash": "7c196b8644c0b35d90a11189dcd93f1b00523089"
+          }
+        },
+        {
+          "client_id": "643951108024-ot5hvnvdcolirqvnkb7n7iaf512qaahg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfvcghg7o9vwIFysY2kPn8VLrwbLYAnFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643951108024-ot5hvnvdcolirqvnkb7n7iaf512qaahg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
